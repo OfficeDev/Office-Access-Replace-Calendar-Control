@@ -11,3 +11,6 @@ To see the sample calendar control:
 2.  Open the database file (CalendarDemo.accdb).
 3.  Right-click on *frmCalendar* and select **Design view**.
 4.  In the ribbon, select **View Code** to see the Visual Basic code that implements the calendar control.
+
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
