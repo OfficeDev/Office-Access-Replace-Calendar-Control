@@ -1,12 +1,3 @@
----
-topic: sample
-products:
-- Access
-- Office 365
-extensions:
-  contentType: samples
-  createdDate: 9/14/2015 11:25:07 AM
----
 # Office-Access-Replace-Calendar-Control sample
 Companion files for the Visual How To [*Replacing the Calendar Control in Access 2010 applications*](https://msdn.microsoft.com/en-us/library/office/gg251104%28v=office.14%29.aspx)
 
